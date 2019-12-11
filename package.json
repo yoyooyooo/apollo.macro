@@ -9,8 +9,10 @@
     "apollo"
   ],
   "files": [
-    "index.js"
+    "index.js",
+    "*.d.ts"
   ],
+  "types": "index.d.ts",
   "author": "jihu777@gmail.com",
   "license": "MIT",
   "dependencies": {
