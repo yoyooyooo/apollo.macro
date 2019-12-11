@@ -1,12 +1,15 @@
 {
   "name": "apollo.macro",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "a babel macros plugin, auto inject grahql query with apollo hoc",
   "main": "index.js",
   "keywords": [
     "babel-macros",
     "babel-plugin-macros",
     "apollo"
+  ],
+  "files": [
+    "index.js"
   ],
   "author": "jihu777@gmail.com",
   "license": "MIT",
