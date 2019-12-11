@@ -17,5 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "babel-plugin-apollo-helper": "^0.1.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/yoyooyooo/apollo.macro/issues"
+  },
+  "homepage": "https://github.com/yoyooyooo/apollo.macro#readme"
 }
